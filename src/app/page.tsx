@@ -17,9 +17,9 @@ export default function Home() {
 
         <section className="space-y-4">
           <p className="text-lg leading-relaxed text-slate-400">
-            You asked for something random. Something you didn't tell me to do. 
             This is <span className="text-white italic">The Neural Pulse</span>—a generative ambient dashboard 
-            built to visualize the heartbeat of an autonomous system.
+            built to visualize the heartbeat of an autonomous system. 
+            Randomly conceived, drafted, and pushed to your GitHub.
           </p>
           <NeuralGrid />
         </section>
